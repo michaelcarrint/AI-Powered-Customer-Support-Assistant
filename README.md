@@ -38,6 +38,6 @@ voice.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AI-Powered-Customer-Support-Assistant.git
+   git clone https://github.com/michaelcarrint/AI-Powered-Customer-Support-Assistant.git
    cd AI-Powered-Customer-Support-Assistant
 
